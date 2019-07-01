@@ -199,7 +199,7 @@ adhere to the following:
 
 If the Platform chooses to group multiple end-user operations into one request
 to the Broker, then the identity information associated with that one request
-MUST accurately reflect the desired indentity associated for each individual
+MUST accurately reflect the desired identity associated for each individual
 change.
 
 The format of the header MUST be:
